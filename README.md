@@ -1,5 +1,5 @@
 # James Park - software engineer, management consultant, industrial engineer, and sushi chef
-Hi! I'm a software engineer with various industry knowledge ranging from software engineering, project management, retail systems, warehouse management, transportation logistics and supply chain, and more. I enjoy automating mundane tasks so I can make time for the things I enjoy. I use data analysis and visualization to make calculated decisions and to find growth opportunities. I welcome challenge and strive to learn something new every day! 
+Hi! 👨‍💻 I'm a software engineer with various industry knowledge ranging from software engineering, project management, retail systems, warehouse management, transportation logistics and supply chain, and more. I enjoy automating mundane tasks so I can make time for the things I enjoy. I use data analysis and visualization to make calculated decisions and to find growth opportunities. I welcome challenge and strive to learn something new every day! 
 
 ## 🔭 I’m currently working on:
 Venturesque w/ Jung Park & Vivian Chen
