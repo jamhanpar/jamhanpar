@@ -10,6 +10,15 @@ I won 3rd place in a Junior Ping Pong Tournament! I was also a sushi chef at age
 ## 🎨 Hobbies:
 Snowboarding, hiking, reading, playing guitar, gardening, camping
 
+## 📚 Reading List:
+* Thinking, Fast & Slow by Daniel Kahneman
+* Tribe of Mentors by Timothy Ferriss
+
+## 🔊 Favorite Podcasts:
+* Freakonomics
+* Robinhood Snacks
+* On Purpose w/ Jay Shetty
+
 ## 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/jameshansungpark/
 - Email: james.hansung.park@gmail.com
