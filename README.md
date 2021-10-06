@@ -1,5 +1,10 @@
 # James Park - software engineer, management consultant, industrial engineer, and sushi chef
-Hi! I'm a software engineer 👨‍💻 with various industry knowledge ranging from software engineering, project management, retail systems, warehouse management, transportation logistics and supply chain, and more. I enjoy automating mundane tasks so I can make time for the things I enjoy. I use data analysis and visualization to make calculated decisions and to find growth opportunities. I welcome challenge and strive to learn something new every day! 
+Hi! I'm a software engineer 👨‍💻 with various industry knowledge ranging from software engineering, project management, retail systems, warehouse management, transportation logistics and supply chain, and more. I enjoy automating mundane tasks so I can make time for the things I enjoy. I use data analysis and visualization to make calculated decisions and to find growth opportunities. I welcome challenge and strive to learn something new every day!
+
+## 📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/jameshansungpark/
+- Email: james.hansung.park@gmail.com
+- Website: https://www.jameshansungpark.com/
 
 ## 🔭 I’m currently working on:
 Venturesque w/ Jung Park & Vivian Chen
@@ -18,10 +23,6 @@ Snowboarding, hiking, reading, playing guitar, gardening, camping
 * Freakonomics
 * Robinhood Snacks
 * On Purpose w/ Jay Shetty
-
-## 📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/jameshansungpark/
-- Email: james.hansung.park@gmail.com
 
 <!--
 **jamhanpar/jamhanpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
