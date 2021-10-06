@@ -18,6 +18,7 @@ Snowboarding, hiking, reading, playing guitar, gardening, camping
 ## 📚 Reading List:
 * Thinking, Fast & Slow by Daniel Kahneman
 * Tribe of Mentors by Timothy Ferriss
+* Principles by Ray Dalio
 
 ## 🔊 Favorite Podcasts:
 * Freakonomics
