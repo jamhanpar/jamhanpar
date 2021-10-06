@@ -11,8 +11,8 @@ I won 3rd place in a Junior Ping Pong Tournament! I was also a sushi chef at age
 Snowboarding, hiking, reading, playing guitar, gardening, camping
 
 ## 📫 How to reach me:
-- Email: james.hansung.park@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jameshansungpark/
+- Email: james.hansung.park@gmail.com
 
 <!--
 **jamhanpar/jamhanpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
