@@ -21,7 +21,7 @@ Hi! I'm a software engineer 👨‍💻 with various industry knowledge ranging 
 I won 3rd place in a Junior Ping Pong Tournament! I was also a sushi chef at age 16.
 
 ## 🎨 Hobbies:
-Snowboarding, hiking, reading, playing guitar, gardening, camping
+Bouldering, snowboarding, hiking, reading, playing guitar, gardening, camping
 
 ## 📚 Reading List:
 * Thinking, Fast & Slow by Daniel Kahneman
