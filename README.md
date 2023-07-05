@@ -8,6 +8,7 @@ Hi! I'm a software engineer 👨‍💻 with various industry knowledge ranging 
 
 ## 🔭 I’m currently working on:
 Venturesque w/ Jung Park & Vivian Chen
+Curatiers w/ Jung Park
 
 ## ⚡ Fun fact:
 I won 3rd place in a Junior Ping Pong Tournament! I was also a sushi chef at age 16.
