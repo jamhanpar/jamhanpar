@@ -7,8 +7,8 @@ Hi! I'm a software engineer 👨‍💻 with various industry knowledge ranging 
 - Website: https://www.jameshansungpark.com/
 
 ## 🔭 I’m currently working on:
-Venturesque w/ Jung Park & Vivian Chen
-Curatiers w/ Jung Park
+* Venturesque w/ Jung Park & Vivian Chen
+* Curatiers w/ Jung Park
 
 ## 🌱 I’m currently learning:
 * NextJS
