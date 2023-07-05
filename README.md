@@ -10,6 +10,13 @@ Hi! I'm a software engineer 👨‍💻 with various industry knowledge ranging 
 Venturesque w/ Jung Park & Vivian Chen
 Curatiers w/ Jung Park
 
+## 🌱 I’m currently learning:
+* NextJS
+* Typesript
+* Java Spring
+* AWS
+* TailwindCSS
+
 ## ⚡ Fun fact:
 I won 3rd place in a Junior Ping Pong Tournament! I was also a sushi chef at age 16.
 
@@ -23,8 +30,12 @@ Snowboarding, hiking, reading, playing guitar, gardening, camping
 
 ## 🔊 Favorite Podcasts:
 * Freakonomics
-* Robinhood Snacks
+* Robinhood Snacks / TBOY
 * On Purpose w/ Jay Shetty
+* The Model Health Show
+* Think Fast Talk Smart
+* Therapy in a Nutshell
+* The Daily
 
 <!--
 **jamhanpar/jamhanpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
